@@ -1,0 +1,9 @@
+{
+  "name": "IMEI Repair Pro",
+  "description": "An all-in-one system for IMEI verification, PTA tax checker, device diagnostics, customer records, repair tracking, invoices, and utility tools.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.FLASHLIGHT"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
